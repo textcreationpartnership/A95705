@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thirty and two extremes of these times discovered and reduced to sixteene golden meanes tending to the reducing of strayers, the establishing of waverers, and the uniting of judgements and hearts together in the truth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95705</idno>
+            <idno type="STC">Wing T916</idno>
+            <idno type="STC">Thomason 669.f.11[66]</idno>
+            <idno type="STC">Thomason 669.f.14[48]</idno>
+            <idno type="STC">ESTC R210613</idno>
+            <idno type="EEBO-CITATION">99869395</idno>
+            <idno type="PROQUEST">99869395</idno>
+            <idno type="VID">163036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163036)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[66], 669f14[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thirty and two extremes of these times discovered and reduced to sixteene golden meanes tending to the reducing of strayers, the establishing of waverers, and the uniting of judgements and hearts together in the truth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the Old Bailey,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A conversation on religion by "Ould Extreme", "Golden Meane", and "New Extreme"; In general, Ould Extreme's comments are in Gothic letter, New Extreme's comments are in regular type, and Golden Meane's comments are in italic.</note>
+                  <note>Annotation on Thomason copy: (Thomason 669.f.11[66]) "Aug: 23"; (Thomaon 669.f.14[48]) "see if not formerly".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Relgious tolerance --  England --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Religion --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163036:1" rendition="simple:additions"/>
+            <head>Thirty and two Extremes of theſe times diſcovered and reduced to ſixteene Golden Meanes, tending to the reducing of Strayers
+the eſtabliſhing of Waverers, and the uniting of Judgements and Hearts together in the Truth.</head>
+            <epigraph>
+               <bibl>Mat. 5. 9.</bibl>
+               <q>Bleſſed are the peace-makers.</q>
+            </epigraph>
+            <epigraph>
+               <bibl>Rom. 14. 19.</bibl>
+               <q>Let us therefore follow after the things that make for peace, and things wherewith one may edifie another.</q>
+            </epigraph>
+            <p>
+               <bibl>
+                  <hi>Job</hi> 32. 9.</bibl> Great men are not
+alway wiſe, neither doe the
+aged underſtand judge<g ref="char:EOLhyphen"/>ment.</p>
+            <figure>
+               <p>Ould Exſtreame</p>
+            </figure>
+            <p>
+               <bibl>
+                  <hi>Job</hi> 27. 11.</bibl> I will teach you by
+the hand of God, that which
+is with the Almighty will I
+not conceale.</p>
+            <figure>
+               <p>Goulden Meane</p>
+            </figure>
+            <p>
+               <bibl>
+                  <hi>Job</hi> 38. 2.</bibl> Who is this that
+darkneth counſell by words
+without knowledge.</p>
+            <figure>
+               <p>New Exſtreame</p>
+            </figure>
+            <p>1 Old Ex<g ref="char:EOLunhyphen"/>treme. <hi>I</hi> Cannot abide to heare of your
+whimſicall wayes, and your new
+lights, which are ſo much talked of
+and ſet up now adayes; for mine
+owne part I am reſolved to go on, and live and die
+in the old and true Proteſtant Religion, and doe
+you take all your whimſicall wayes to your ſelfe.</p>
+            <p>2 New Extreme. <hi>And I do ſo eſteem of our new
+wayes, and new lights, that I have no regard
+at all to any thing that is old,</hi>
+               <note place="margin">2 Cor. 5. 17.</note> 
+               <hi>conſidering that
+the Apoſtle ſaith,</hi>
+               <note place="margin">2 Cor. 4. 6.</note> Old things are paſt away, behold
+all things are become new. <hi>And that</hi> God who com<g ref="char:EOLhyphen"/>mandeth
+light to ſhine out of darkneſſe, hath ſhined
+in our hearts to give the knowledge of God in the
+face of Jeſus Christ.</p>
+            <p>1 <hi>Golden Mean.</hi> It is not good ſo to adhear to
+any Old truth, as to caſt away any clearer diſcovery
+thereof, neither is it good so to catch at any new notion
+as to caſt away all Old truths becauſe of a clearer
+diſcovery,<note place="margin">Jer. 6. 16.</note> but it is good to <hi>ſtand in the wayes and
+ſee and aske for the Old paths which is the
+good way and walke therein,</hi> And yet when any
+clearer diſcoveries of that light which ſhineth in a
+darke place,<note place="margin">2 Pet. 1. 19</note> comes by meanes of the <hi>day-ſtar ariſing
+in our hearts,</hi> we are not to obſcure it; but yet ſay I
+<hi>to the Law,</hi>
+               <note place="margin">Iſa. 8. 20.</note> 
+               <hi>and to the Teſtimony, if they
+ſpeak not according to this word, it is becauſe
+there is no light in them.</hi>
+            </p>
+            <p>3 <hi>Old Extreme.</hi> Well my deſire is that Arch<g ref="char:EOLhyphen"/>biſhops,
+and Biſhops, might be reſtored againe to
+their places and dignities, and that all things in
+the Church might be ruled and governed by them
+and their Officers as they have formerly been in
+this Kingdome.</p>
+            <p>4 <hi>New Extreme.</hi> You ſpeak like an old ſimple
+and ignorant man, and do well deſerve to be
+queſtioned for your ſpeeches, for that were to
+bring the Saints of God into bondage againe.</p>
+            <p>2 <hi>Golden Mean.</hi> Doubtleſſe the conſtitution of a
+Dioceſian Biſhop hath no footſteps in the word of
+God,<note place="margin">Luk. 22, 25, 26.</note> and that Lording or Magiſtraticall power which
+they have exerciſed in the Church,<note place="margin">1 Pet. 5. 3.</note> eſpecially of late
+yeares, hath rather been Antichriſtian then Chriſtian,
+and therefore we are not to deſire their reſtoration
+againe; notwithſtanding if any one through igno<g ref="char:EOLhyphen"/>rance
+doe wiſh for ſuch a thing, let us beare with his
+weakneſſe, and endevour to inſtruct him better.</p>
+            <p>5 <hi>Old Extreme.</hi> I wiſh in mine heart, that the
+Service-booke might bee read again in our Churches
+as it hath formerly béene, for therein as I conceive
+the true Proteſtant Religion is contained.</p>
+            <p>6 <hi>New Extreme.</hi> But rather then I would come
+into a congregation where any of the Service-booke
+is read, I would never come into congre<g ref="char:EOLhyphen"/>gation
+whilſt I lived.</p>
+            <p>3 <hi>Gold. Meane.</hi> 
+               <g ref="char:V">Ʋ</g>ndoubtedly the true Proteſtant
+Religion is contained in the old and new Teſtament,
+and not in the Service-book, and therefore a man may
+live and die in the true Proteſtant Religion though hee
+never hear leafe of the Service-book read in all his life,
+nor one line of it be read at his death, yet rather them
+I would omit the hearing of the Word, I would heare
+much of it read.</p>
+            <p>7 <hi>Old Extreme.</hi> I wiſh in mine heart that every
+man and woman might be fréely admitted to the Sa<g ref="char:EOLhyphen"/>crament
+of the Lords Supper as formerly they have
+béene.</p>
+            <p>8 <hi>New Extreme.</hi> But rather then I would re<g ref="char:EOLhyphen"/>ceive
+the ſacrament in the company of any man
+or woman, whom I doe conceive are carnall,
+unregenerate, and unconverted, I would never
+receive the Sacrament whilſt I lived.</p>
+            <p>4 <hi>Goulden Meane.</hi> Surely none but ſuch as are
+in the ſtate of grace, are to bee admitted unto the
+Sacrament of the Lords ſupper,<note place="margin">Rom. 4. 11</note> it being a ſcale of the
+Covenant of grace, notwithſtanding though I ſhould
+bee jealous that ſuch a man or woman were in the
+ſtate of nature, yet they being admitted by the Elder<g ref="char:EOLhyphen"/>ſhip,
+I ſhould rather chuſe to thinke that they upon Ex<g ref="char:EOLhyphen"/>amination
+had found more evidences of their being
+in the ſtate of grace then ever I imagined, and there<g ref="char:EOLhyphen"/>fore
+would not omit the receiving of the Sacrament
+becauſe of their preſence there.</p>
+            <p>9 <hi>Old Extreme.</hi> I would have all infants that
+are borne alive, to be Baptized preſently, becauſe I
+am perſwaded that none can be ſaved which die
+without Baptizme.</p>
+            <p>10 <hi>New Extreme.</hi> But I ſay, that Beleevers are
+the only ſubjects of Baptiſme; but infants can<g ref="char:EOLhyphen"/>not
+beleeve, and therefore no infant is to bee
+baptized.</p>
+            <p>5 <hi>Golden Mean.</hi> All elect infants ſhall undoubt<g ref="char:EOLhyphen"/>edly
+bee ſaved though they bee not Baptized, for they
+are ſaved by vertue of Chriſts blood, and not by vertue
+of Baptiſme, nevertheleſſe I would have all the in<g ref="char:EOLhyphen"/>fants
+of beleeving parents to be Baptiſed;<note place="margin">Act. 2. 39.</note> firſt, becauſe
+the promiſe is made both to them and their children.<note place="margin">Col. 2. 11, 12.</note>
+Secondly, becauſe Baptiſme is come in the roome of
+Circumciſion.<note place="margin">Act. 16. 33 34.</note> And thirdly, becauſe we read in the
+new Teſtament, that when the Maſter of the houſe
+was turned to the faith, all his whole houſhold were
+Baptized, and that the houſhold is taken for man
+woman and childe, is evident, Gen 18, 19. Geneſ.
+49, 8.</p>
+            <p>11 <hi>Old Extreme.</hi> I would not have any man to take upon him to preach or expound,
+or any way to doe the Of<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of a Miniſter, except he be endewed with humaine learn<g ref="char:EOLhyphen"/>ing,
+and have taken ſome Degrées in the Vniverſity, and be ordained and ſet apart
+thereunto.</p>
+            <p>12 <hi>New Extreme.</hi> But for my part I am ſo out of conceit with humane learn<g ref="char:EOLhyphen"/>ing
+and degrees in Schools, that I could wiſh every Miniſter of the Goſpell were
+without them; for I verily thinke a man cannot be a right Goſpell Miniſter
+that makes any uſe of them, and I would have every man to whom the Lord
+hath given any gifts, to take all opportunities to exerciſe the ſame either pub<g ref="char:EOLhyphen"/>likely
+or privately, whether he be ordained or no.</p>
+            <p>6 <hi>Golden Mean.</hi> The truth is, that humane learning and degrees in Schooles, neither
+make a man a Saint, nor an able Miniſter of the New Teſtament; and yet conſidering
+that the originall of Scripture cannot be attained unto without the gift of Tongues, and
+that in theſe laſt dayes the Lord doth deny men that immediate gift: humane Learning and
+degrees in Schooles may ſtand a man in ſtead; and ſurely it is lawfull for any gifted man
+to exerciſe his gifts privately, either in his owne Family or elſewhere for the good of others,
+provided it be not in the time of publike exerciſe; yea, and publikely alſo before he be or<g ref="char:EOLhyphen"/>dained,
+if he intend to be ordained.</p>
+            <p>13. <hi>Old Ext.</hi> Our Miniſter preacheth now and then for the lawfulneſſe of peo<g ref="char:EOLhyphen"/>ples
+paying Tythes to their Miniſters for their maintenance, and urgeth it very much,
+and I thinke he doth very well in ſo doing, for ſurely it is meete that Miniſters ſhould
+be thereby maintained.</p>
+            <p>14. <hi>New Extreame.</hi> But though your Miniſter, and all the Miniſters in the
+Kingdome ſhould preſſe it never ſo much, rather then I would give a Miniſter
+a penny under the notion of Tythes, I would ſee him ſtarve for lack of main<g ref="char:EOLhyphen"/>tenance,
+for that were in effect to deny the comming of Chriſt in the fleſh.</p>
+            <p>7. <hi>Golden Mean.</hi> I would not adviſe any Miniſter of the Goſpell to require any main<g ref="char:EOLhyphen"/>tenance
+under the notion of Tythes, becauſe ſome men do take offence thereat; neither is
+it materiall whether any man give him maintenance under that notion, ſo he give it him,
+becauſe the Apoſtle, or rather becauſe the Lord by the Apoſtle ſaith, <hi>Let him that is taught
+in the Word,</hi>
+               <note place="margin">Gal. 6 6, 15</note> 
+               <hi>communicate unto him that teacheth in all good things.</hi>
+            </p>
+            <p>15. <hi>Old Extreame.</hi> Our Miniſter doth well deſerve maintenance, for he is a very
+honeſt painfull man, continually preſſing us to repent of our ſins, and to do good
+works according to Gods Commandments.</p>
+            <p>16. <hi>New Extreame.</hi> But I ſhould like him much better if he were continually
+declaring unto you what is the Kingly Office of Chriſt in his Church, and what
+Diſcipline and Government he would have ſet up there.</p>
+            <p>8. <hi>Golden Mean.</hi> But that Miniſter is beſt of all to be liked, who doth chiefly in<g ref="char:EOLhyphen"/>deavour
+to informe his people in the Myſteries of Jeſus Chriſt; for though to handle the
+points you ſpeake of,<note place="margin">1 Cor. 2. 2.</note> be ſometimes expedient, yet the Doctrine concerning Chriſt and him
+crucified, is that one point neceſſary.</p>
+            <p>17. <hi>Old Extreme.</hi> I am perſwaded that the Civill Magiſtrate is to have a hand
+in reforming the Church, and in ordering and doing all things in the Church, for it is
+ſaid,<note place="margin">Iſa. 49. 23.</note> That Kings ſhall be nurſing Fathers, and Quéens nurſing Mothers to the Church.</p>
+            <p>18. <hi>New Extreme.</hi> I know no other Reformation that Chriſt requires in his
+Church, but onely the Reformation of the heart, and I am ſure the Civill Ma<g ref="char:EOLhyphen"/>giſtrate
+hath no power to do that; and therefore it is cleare to me, that he hath
+nothing at all to do, neither in nor about the Church of Chriſt, but onely about
+the Common-Wealth.</p>
+            <p>9. <hi>Golden Meane.</hi> In the Church of Chriſt, beſides the Reformation of the heart,
+which indeed is the chiefe Reformation, and Chriſts Worke onely, and not mans, there is
+required a Reformation of Religion in Doctrine, Worſhip, Diſcipline, and Government,
+and this the Civill Magiſtrate is to have a hand in, by compelling to the meanes, and
+to the externall acts of Worſhip and Government, as you may ſee, <hi>Nehem.</hi> 13. 31, 32.
+2 <hi>Chron.</hi> 34. 32, 33. and indeed the Civill Magiſtrate is to do much about the pale of
+the Church, as to puniſh the wicked, and encourage the godly, and the like; but how they
+are to be nurſing fathers and nurſing anothers to the Church, is, ar I conceive, a hard
+matter rightly to determine.</p>
+            <p>19. <hi>Old Extreame.</hi> Some men do talke very much of worſhipping God in the
+Spirit, and not with outward formes; but for mine owne part I am reſolved to ſtick
+to my outward formes of hearing, reading, praying, faſting, and other ſuch like Reli<g ref="char:EOLhyphen"/>gious
+exerciſes, for I know no other way of worſhipping God.</p>
+            <p>20. <hi>New Extreme.</hi> But I am all for the Spirituall Worſhip of God, and to tell
+you truly, I uſe no outward formes at all, for I know very well that God is a
+Spirit, and they that worſhip him muſt worſhip him in Spirit and Truth, <hi>Joh.</hi> 4. 20.</p>
+            <p>10. <hi>Golden Mean.</hi> As we are not to content our ſelves with outward formes with<g ref="char:EOLhyphen"/>out
+the inward power, and ſpirituall Worſhip of God, ſo are we not to conceive, that the
+inward power, and true ſpirituall Worſhip of God can be where outward forms are wilfully
+neglected, when God calls us unto them, therefore ſurely he doth beſt that doth both.</p>
+            <p>21. <hi>Old Extreme.</hi> I am perſwaded that Chriſtians are bound to obſerve the Sab<g ref="char:EOLhyphen"/>bath
+day very ſtrictly, for we are forbidden ſo much as to kindle a fire on that day, as you
+may ſee <hi>Exo.</hi> 35. 3. or to gather a few ſticks to lay thereon, as you may ſee, <hi>Num.</hi> 15. 35.</p>
+            <p>22. <hi>New Extreme.</hi> I finde not in all the whole new Teſtament any command
+to keep any Sabbath at all; and therefore I do believe, that now in the daies of
+the Goſpell, every day is to be kept as a Sabba<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, and a Chriſtian is not to re<g ref="char:EOLhyphen"/>ſtraine
+it to one day more then to another, nor make any difference of daies at
+all, but all daies are to be alike to him.</p>
+            <p>11 <hi>Golden Meane.</hi> Indeed the preciſe and ſtrict reſt of the Jewes on the Sahbath
+Day was Ceremoniall, and therefore now by Chriſt ſo taken away, that a Chriſtian is not
+ſo bound to reſt but that he may doe workes of urgent neceſſity, as you may ſee in the Diſci<g ref="char:EOLhyphen"/>ples
+plucking the eares of Corne, and rubbing them an the S<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbath Day <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Saviours
+defending them for ſo doing, Luk. 6. 1, 2, 3, 4, 5. yea, and a Chr<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> alſo doe
+workes of mercy on that day, as you may ſee, Mat. 12. 11, 12. <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſt day
+of the weeke, or Lords Day, is to be kept as a Sabbath
+to the Lord, for ſurely Chriſt had no other reaſon to
+bid them pray,<note place="margin">Mat. 24. 20.</note> that their flight ſhould not be on the
+Sabbath Day, but for that it would diſturbe and
+hinder them from attending upon the Worſhip of
+God.</p>
+            <p>23 <hi>Old Extreme.</hi> I cannot abide your aſſem<g ref="char:EOLhyphen"/>bling
+together, and your preaching in private hou<g ref="char:EOLhyphen"/>ſes,
+for I am perſwaded Gods Word ought not to
+be preached any where elſe but in the Church of
+God.</p>
+            <p>24 <hi>New Extreme.</hi> But I had rather heare a
+Sermon in a private houſe then in any of your
+Steeple-houſes.</p>
+            <p>12 <hi>Gold Mean.</hi> Certainly the place appointed for
+Publike Worſhip cannot properly be called the Church
+of God,<note place="margin">Mat. 18. 20</note> for the Church of God is, where two or three,
+or more of the Saints of God are gathered together to
+worſhip God, nevertheleſſe for as much as the Apoſtle
+willeth,<note place="margin">1 Cor. 14 40.</note> that <hi>all things be done decently and in
+order;</hi> I thinke it meet we ſhould aſſemble together
+to heare the Word, rather in publike then in private,
+becauſe it is ſo appointed by authority.</p>
+            <p>25 <hi>Old Extrem.</hi> There is much talke now a<g ref="char:EOLhyphen"/>dayes
+about liberty of Conſcience, and many men
+ſeeme much to deſire it, but for mine owne part I
+know not what they meane by it, and therefore I
+regard it not.</p>
+            <p>26 <hi>New Extreme.</hi> Liberty of Conſcience is ſo
+deare and precious a thing to me, and I doe
+prize it ſo highly, that I would ſpend my blood
+rather then I would want it, for to live without
+it were to live in ſlavery.</p>
+            <p>13 <hi>Golden Mean.</hi> The Apoſtle, Gal. 5. 1. wil<g ref="char:EOLhyphen"/>leth
+Beleevers to <hi>ſtand faſt in that liberty where<g ref="char:EOLhyphen"/>with
+Chriſt hath made them free,</hi> that is, from
+the yoke of the Cerimoniall Law, and the condemning
+power of the Morall Law; and this may truly be cal<g ref="char:EOLhyphen"/>led,
+Liberty of Conſcience, and this we are to deſire
+and plead for, and yet we muſt beware that we uſe not
+this liberty for an occaſion to the fleſh, as the ſame A<g ref="char:EOLhyphen"/>poſtle
+adviſeth, verſe 13. and this we ſhall doe if we
+truly ſay with <hi>David,</hi> Pſal. 119. 45. I will walke
+at liberty, for I ſeeke thy precepts.</p>
+            <p>27 <hi>Old Extreme.</hi> I have heard ſome men
+ſpeake, as though there were a great defference to
+be made betwixt the Old Teſtament and the New,
+and much to under-value the Old in compariſon of
+the New; but for mine owne part I doe beleeve
+that they are both of them the Word of God, and
+therefore I ſee no difference that there is to be made
+betwixt them.</p>
+            <p>28 <hi>New Extreme.</hi> But for my part, I doe
+make ſuch a difference betwixt them that I doe
+beleeve the Old Teſtament is utterly to be abo<g ref="char:EOLhyphen"/>liſhed,
+and that a Beleever is to have nothing
+at all to doe with it; for doth not the Apoſtle
+ſay in plaine termes that the Old Teſtament is
+done away, 2 Cor. 3. 11. Heb. 8. 13.</p>
+            <p>14 <hi>Golden Meane.</hi> Indeed it is true, the Ceremo<g ref="char:EOLhyphen"/>nies,
+and the circumſtantiall Adminiſtrations of the
+Old Teſtament are done away, but yet the ſubſtance
+remaines; ſo that we are not to imagine that the
+Booke it ſelfe is done away, for therein is contained
+the Law of God, and Word of God, even the perfect
+Will of God, which ſhall remaine for ever.</p>
+            <p>29 <hi>Old Extreme.</hi> Surely the Presbyterian
+way of Church-Government muſt needs be now
+the onely way to Salvation, ſeeing that Authority is
+pleaſed to ſet it up in this Kingdome.</p>
+            <p>30 <hi>New Extreme.</hi> And I am confident that
+the way which they call the Independant way
+is the very way to Heaven, for I have been more
+confidently aſſured of my Salvation, ſince I en<g ref="char:EOLhyphen"/>tred
+into that way then ever I was before.</p>
+            <p>15 <hi>Gold. Meane.</hi> Aſſure your ſelves that no man
+ſhall be ſaved ſimply, becauſe he is under ſuch a way
+of Church-Government, whether it be Epiſcopacy,
+Presbitery, or Independant, nor damned ſimply be<g ref="char:EOLhyphen"/>cauſe
+he is under any of them; but a man ſhall be ſa<g ref="char:EOLhyphen"/>ved
+if he beleeve truly on the name of the Lord Jeſus
+Chriſt,<note place="margin">Joh. 3. 38.</note> and damned if he doe not, which way of
+Church-Government ſoever he is.</p>
+            <p>31 <hi>Old Extr.</hi> I would have every man con<g ref="char:EOLhyphen"/>ſtrained
+by Authority to conforme himſelfe to the
+Presbyteriall Government, becauſe it is eſtabliſhed
+by Authority.</p>
+            <p>32 <hi>New Extreme.</hi> I would have all men to
+have liberty of Conſcience, of what Opinion
+or Religion ſoever they be.</p>
+            <p>16 <hi>Gold Mean.</hi> I would have all men to have
+liberty of Conſcience who are ſound and Orthodox as
+touching Fundamentalls, and godly in their lives and
+converſations, though they doe not conforme them<g ref="char:EOLhyphen"/>ſelves
+of the Presbiteriall way, but none elſe.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>John Wright</hi> at the Kings
+Head in the Old Bailey. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
